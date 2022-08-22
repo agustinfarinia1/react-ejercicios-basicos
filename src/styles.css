@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+button{
+    margin-left: 10px;
+}
+
+.container{
+    width: 100%;
+}
+
+a{
+    margin-right: 5px;
+}
